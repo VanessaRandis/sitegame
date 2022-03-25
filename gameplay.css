@@ -1,0 +1,43 @@
+body{
+
+}
+.principal{
+
+    background: #cccccc;
+    padding-left: 30px;
+}
+
+.titulo-principal{
+    padding: 5%;
+
+}
+
+#game{
+
+    width: 100%;
+}
+
+
+.homemaranha{
+
+    width: 10%;
+}
+.goodWar{
+
+    width: 20%;
+    
+}
+.minecraft{
+
+   width: 10%;
+  
+}
+.sackboy{
+    width: 10%;
+}
+
+.ratchet{
+
+    width: 10%;
+   
+}
